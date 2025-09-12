@@ -1,0 +1,4 @@
+site_name: My site
+site_url: https://acn-2025.github.io
+theme:
+  name: material
