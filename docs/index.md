@@ -9,15 +9,19 @@ hide:
 
 - 课程名称：高级计算机网络 (COMP6103P.01)
 - 上课时间地点：2~20周 GT-B212: 2(11,12,13)
-- 主讲教师：[赵功名](mailto:gmzhao@ustc.edu.cn)
-- 助教：[朱家成](mailto:zhu_jc@mail.ustc.edu.cn)、[邓立鑫](mailto:denglx@mail.ustc.edu.cn)、[田佳林](mailto:jltian@mail.ustc.edu.cn)、[李紫惠](mailto:li20221052022@163.com)
+- 主讲教师：赵功名 (gmzhao at ustc dot edu dot cn)
+- 助教 (邮箱：括号中的用户名 at mail dot ustc dot edu dot cn)
+    - 朱家成 (zhu_jc)
+    - 邓立鑫 (denglx)
+    - 田佳林 (jltian)
+    - 李紫惠 (lizihui2002)
 
 
 ## 课程安排
 
 | 课次    | 主题             | 论文                                                                  | PPT                    |
 |----- |------------------|----------------------------------------------------------------------|-------------------------|
-| 1      | fat tree         | A Scalable, Commodity Data Center Network Architecture 【SIGCOMM08】 | [FatTree](slides/2025-FatTree.pptx) |
+| 1      | fat tree         | A Scalable, Commodity Data Center Network Architecture 【SIGCOMM08】 | [FatTree](slides/2025-FatTree.pdf) |
 | 2      | VL2              | VL2: A scalable and flexible data center network 【SIGCOMM09】        | - |
 | 3      | openflow/SDN     | OpenFlow Enabling Innovation in Campus Networks 【SIGCOMM08】         | - |
 | 4      | B4              | B4- Experience with a Globally-Deployed Software Defined WAN【SIGCOMM13】| - |
