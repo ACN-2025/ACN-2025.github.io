@@ -21,7 +21,7 @@ hide:
 
 | 课次    | 主题             | 论文                                                                  | PPT                    |
 |----- |------------------|----------------------------------------------------------------------|-------------------------|
-| 1      | fat tree         | A Scalable, Commodity Data Center Network Architecture 【SIGCOMM08】 | [FatTree](slides/2025-FatTree.pdf) |
+| 1      | fat tree         | [A Scalable, Commodity Data Center Network Architecture](papers/FatTree.pdf) | [FatTree](slides/FatTree-slides.pdf) |
 | 2      | VL2              | VL2: A scalable and flexible data center network 【SIGCOMM09】        | - |
 | 3      | openflow/SDN     | OpenFlow Enabling Innovation in Campus Networks 【SIGCOMM08】         | - |
 | 4      | B4              | B4- Experience with a Globally-Deployed Software Defined WAN【SIGCOMM13】| - |
