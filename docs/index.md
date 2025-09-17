@@ -45,8 +45,8 @@ hide:
 | 1 | Cassini: Network-Aware Job Scheduling in Machine Learning Clusters | NSDI | 2024 |
 | 2 | Better Together: Jointly Optimizing ML Collective Scheduling and Execution Planning using Syndicate | NSDI | 2023 |
 | 3 | RDMA over Ethernet for Distributed AI Training at Meta Scale | NSDI | 2024 |
-| 4 | Crux: GPU-Efficient Communication Scheduling for Deep Learning Training | SIGCOMM | 2024 |
-| 5 | Alibaba HPN: A Data Center Network for Large Language Model Training | SIGCOMM | 2024 |
+| 4 (已选) | Crux: GPU-Efficient Communication Scheduling for Deep Learning Training | SIGCOMM | 2024 |
+| 5 (已选) | Alibaba HPN: A Data Center Network for Large Language Model Training | SIGCOMM | 2024 |
 | 6 | Mooncake: Trading More Storage for Less Computation — A KVCache-centric Architecture for Serving LLM Chatbot | FAST | 2025 |
 | 7 | SimAI: Unifying Architecture Design and Performance Tuning for Large-Scale Large Language Model Training with Scalability and Precision | NSDI | 2025 |
 | 8 | Efficient Memory Management for Large Language Model Serving with PagedAttention | SOSP | 2023 |
@@ -54,7 +54,7 @@ hide:
 | 10 | Themis: A Network Bandwidth-Aware Collective Scheduling Policy for Distributed Training of DL Models | ISCA | 2022 |
 | 11 | Gemini: Fast Failure Recovery in Distributed Training with In-Memory Checkpoint | SOSP | 2023 |
 | 12 | Janus: A Unified Distributed Training Framework for Sparse Mixture-of-Experts Models | SIGCOMM | 2023 |
-| 13 | Cost-Efficient Large Language Model Serving for Multi-turn Conversations with CachedAttention | ATC | 2024 |
+| 13 (已选) | Cost-Efficient Large Language Model Serving for Multi-turn Conversations with CachedAttention | ATC | 2024 |
 | 14 | Towards Domain-Specific Network Transport for Distributed DNN Training | NSDI | 2024 |
 | 15 | Differential Network Analysis (DNA) | NSDI | 2022 |
 | 16 | Bamboo: Making Preemptible Instances Resilient for Affordable Training of Large DNNs | NSDI | 2023 |
@@ -70,24 +70,26 @@ hide:
 | 26 | White-Boxing RDMA with Packet-Granular Software Control | NSDI | 2025 |
 | 27 | Unlocking ECMP Programmability for Precise Traffic Control | NSDI | 2025 |
 | 28 | Autellix: An Efficient Serving Engine for LLM Agents as General Programs | NSDI | 2026 |
-| 29 | Cost-Efficient Large Language Model Serving for Multi-turn Conversations with CachedAttention | ATC | 2024 |
-| 30 | Revisiting Congestion Control for Lossless Ethernet | NSDI | 2024 |
-| 31 | Load Balancing With Multi-Level Signals for Lossless Datacenter Networks | ToN | 2024 |
-| 32 | Swing: Short-cutting Rings for Higher Bandwidth Allreduce | NSDI | 2024 |
-| 33 | RDMA over Ethernet for Distributed AI Training at Meta Scale | SIGCOMM | 2024 |
-| 34 | Rethinking Machine Learning Collective Communication as a Multi-Commodity Flow Problem | SIGCOMM | 2024 |
-| 35 | MCCS: A Service-based Approach to Collective Communication for Multi-Tenant Cloud | SIGCOMM | 2024 |
-| 36 | Whale: Efficient Giant Model Training over Heterogeneous GPUs | ATC | 2023 |
-| 37 | Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve | OSDI | 2024 |
-| 38 | ServerlessLLM: Low-Latency Serverless Inference for Large Language Models | OSDI | 2024 |
-| 39 | Parcae: Proactive, Liveput-Optimized DNN Training on Preemptible Instances | NSDI | 2024 |
-| 40 | CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving | SIGCOMM | 2024 |
+| 29 | Revisiting Congestion Control for Lossless Ethernet | NSDI | 2024 |
+| 30 | Load Balancing With Multi-Level Signals for Lossless Datacenter Networks | ToN | 2024 |
+| 31 | Swing: Short-cutting Rings for Higher Bandwidth Allreduce | NSDI | 2024 |
+| 32 | RDMA over Ethernet for Distributed AI Training at Meta Scale | SIGCOMM | 2024 |
+| 33 | Rethinking Machine Learning Collective Communication as a Multi-Commodity Flow Problem | SIGCOMM | 2024 |
+| 34 | MCCS: A Service-based Approach to Collective Communication for Multi-Tenant Cloud | SIGCOMM | 2024 |
+| 35 | Whale: Efficient Giant Model Training over Heterogeneous GPUs | ATC | 2023 |
+| 36 | Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve | OSDI | 2024 |
+| 37 | ServerlessLLM: Low-Latency Serverless Inference for Large Language Models | OSDI | 2024 |
+| 38 | Parcae: Proactive, Liveput-Optimized DNN Training on Preemptible Instances | NSDI | 2024 |
+| 39 (已选) | CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving | SIGCOMM | 2024 |
 
 ## 学生 Presentation 安排
 
-| 时间 | 人员 | 主题 |
+| 时间 | 人员 | 论文 |
 | --- | --- | --- |
-| - | - | - |
+| 第3周 2025.9.23 | 唐梓皓 魏清扬 | Crux: GPU-Efficient Communication Scheduling for Deep Learning Training |
+| 第4周 2025.9.30 | 沈嘉玮 李宇航 | Alibaba HPN: A Data Center Network for Large Language Model Training |
+| 第9周 2025.11.4 | 陈润佳 刘盈睿 | Cost-Efficient Large Language Model Serving for Multi-turn Conversations with CachedAttention |
+| 第15周 2025.12.16 | 范冰 陈智慧 | CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving |
 
 
 
