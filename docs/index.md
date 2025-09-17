@@ -49,7 +49,7 @@ hide:
 | 5 (已选) | Alibaba HPN: A Data Center Network for Large Language Model Training | SIGCOMM | 2024 |
 | 6 | Mooncake: Trading More Storage for Less Computation — A KVCache-centric Architecture for Serving LLM Chatbot | FAST | 2025 |
 | 7 | SimAI: Unifying Architecture Design and Performance Tuning for Large-Scale Large Language Model Training with Scalability and Precision | NSDI | 2025 |
-| 8 | Efficient Memory Management for Large Language Model Serving with PagedAttention | SOSP | 2023 |
+| 8 (已选) | Efficient Memory Management for Large Language Model Serving with PagedAttention | SOSP | 2023 |
 | 9 | ReCycle: Resilient Training of Large DNNs using Pipeline Adaptation | SOSP | 2023 |
 | 10 | Themis: A Network Bandwidth-Aware Collective Scheduling Policy for Distributed Training of DL Models | ISCA | 2022 |
 | 11 | Gemini: Fast Failure Recovery in Distributed Training with In-Memory Checkpoint | SOSP | 2023 |
@@ -69,7 +69,7 @@ hide:
 | 25 | TopoopT: Co-optimizing Network Topology and Parallelization Strategy for Distributed Training Jobs | NSDI | 2023 |
 | 26 | White-Boxing RDMA with Packet-Granular Software Control | NSDI | 2025 |
 | 27 | Unlocking ECMP Programmability for Precise Traffic Control | NSDI | 2025 |
-| 28 | Autellix: An Efficient Serving Engine for LLM Agents as General Programs | NSDI | 2026 |
+| 28 (已选) | Autellix: An Efficient Serving Engine for LLM Agents as General Programs | NSDI | 2026 |
 | 29 | Revisiting Congestion Control for Lossless Ethernet | NSDI | 2024 |
 | 30 | Load Balancing With Multi-Level Signals for Lossless Datacenter Networks | ToN | 2024 |
 | 31 | Swing: Short-cutting Rings for Higher Bandwidth Allreduce | NSDI | 2024 |
@@ -88,7 +88,9 @@ hide:
 | --- | --- | --- |
 | 第3周 2025.9.23 | 唐梓皓 魏清扬 | Crux: GPU-Efficient Communication Scheduling for Deep Learning Training |
 | 第4周 2025.9.30 | 沈嘉玮 李宇航 | Alibaba HPN: A Data Center Network for Large Language Model Training |
+| 第7周 2025.10.21 | 周晖林 刘国柱 杨敏 | Efficient Memory Management for Large Language Model Serving with PagedAttention |
 | 第9周 2025.11.4 | 陈润佳 刘盈睿 | Cost-Efficient Large Language Model Serving for Multi-turn Conversations with CachedAttention |
+| 第12周 2025.11.25 | 刘亚国 张桦坚 王道宇 | Autellix: An Efficient Serving Engine for LLM Agents as General Programs |
 | 第15周 2025.12.16 | 范冰 陈智慧 | CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving |
 
 
