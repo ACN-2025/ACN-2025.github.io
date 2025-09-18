@@ -42,7 +42,7 @@ hide:
 
 | 序号 | 论文名称 | 会议 | 时间 |
 |---|---|---|---|
-| 1 | Cassini: Network-Aware Job Scheduling in Machine Learning Clusters | NSDI | 2024 |
+| 1 (已选) | Cassini: Network-Aware Job Scheduling in Machine Learning Clusters | NSDI | 2024 |
 | 2 | Better Together: Jointly Optimizing ML Collective Scheduling and Execution Planning using Syndicate | NSDI | 2023 |
 | 3 (已选) | RDMA over Ethernet for Distributed AI Training at Meta Scale | NSDI | 2024 |
 | 4 (已选) | Crux: GPU-Efficient Communication Scheduling for Deep Learning Training | SIGCOMM | 2024 |
@@ -50,9 +50,9 @@ hide:
 | 6 (已选) | Mooncake: Trading More Storage for Less Computation — A KVCache-centric Architecture for Serving LLM Chatbot | FAST | 2025 |
 | 7 | SimAI: Unifying Architecture Design and Performance Tuning for Large-Scale Large Language Model Training with Scalability and Precision | NSDI | 2025 |
 | 8 (已选) | Efficient Memory Management for Large Language Model Serving with PagedAttention | SOSP | 2023 |
-| 9 | ReCycle: Resilient Training of Large DNNs using Pipeline Adaptation | SOSP | 2023 |
+| 9 (已选) | ReCycle: Resilient Training of Large DNNs using Pipeline Adaptation | SOSP | 2023 |
 | 10 | Themis: A Network Bandwidth-Aware Collective Scheduling Policy for Distributed Training of DL Models | ISCA | 2022 |
-| 11 | Gemini: Fast Failure Recovery in Distributed Training with In-Memory Checkpoint | SOSP | 2023 |
+| 11 (已选) | Gemini: Fast Failure Recovery in Distributed Training with In-Memory Checkpoint | SOSP | 2023 |
 | 12 (已选) | Janus: A Unified Distributed Training Framework for Sparse Mixture-of-Experts Models | SIGCOMM | 2023 |
 | 13 (已选) | Cost-Efficient Large Language Model Serving for Multi-turn Conversations with CachedAttention | ATC | 2024 |
 | 14 | Towards Domain-Specific Network Transport for Distributed DNN Training | NSDI | 2024 |
@@ -62,7 +62,7 @@ hide:
 | 18 | Starvation in End-to-End Congestion Control | SIGCOMM | 2022 |
 | 19 | DUNE: Distributed Inference in the User Plane | INFOCOM | 2025 |
 | 20 | Nezha: SmartNIC-based Virtual Switch Load Sharing | SIGCOMM | 2025 |
-| 21 | Fast Algorithms for Loop-Free Network Updates using Linear Programming and Local Search | INFOCOM | 2024 |
+| 21 (已选) | Fast Algorithms for Loop-Free Network Updates using Linear Programming and Local Search | INFOCOM | 2024 |
 | 22 | Centauri: Enabling Efficient Scheduling for Communication-Computation Overlap in Large Model Training via Communication Partitioning | ASPLOS | 2024 |
 | 23 | DREAM: A Dynamic Scheduler for Dynamic Real-time Multi-model ML Workloads | ASPLOS | 2023 |
 | 24 (已选) | MegaScale: Scaling Large Language Model Training to More Than 10,000 GPUs | NSDI | 2024 |
@@ -83,7 +83,7 @@ hide:
 
 ## 学生 Presentation 安排
 
-Last Update: 2025.9.18 中午12点
+
 
 | 时间 | 汇报人 | 论文 |
 | --- | --- | --- |
@@ -99,8 +99,14 @@ Last Update: 2025.9.18 中午12点
 | 第13周 2025.12.02 | 吴晓春 汪延 时锐 | RDMA over Ethernet for Distributed Al Training at Meta Scale |
 | 第14周 2025.12.09 | 马嘉慧 靳琪 | Differential Network Analysis (DNA) |
 | 第15周 2025.12.16 | 范冰 陈智慧 | CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving |
+| | 张宇洋 宋子阳 沈楠 | How to Disturb Network Reconnaissance: A Moving Target Defense Approach Based on Deep Reinforcement Learning |
+| | 陈世初 张恒基 | 题目未定 |
 | 第16周 2025.12.23 | 杜柏言 吴风帆 | MegaScale: Scaling Large Language Model Training to More Than 10,000 GPUs |
-| 第17周 2025.12.30 | 陈子阳 丁则文 | ServerlessLLM: Low-Latency Serverless Inference for Large Language Models |
+| | 黄佳依 赵涵 苗明鑫 | ReCycle: Resilient Training of Large DNNs using Pipeline Adaptation |
+| | 李岱霖 刘翔宇 鉏博洋 | Gemini: Fast Failure Recovery in Distributed Training with In-Memory Checkpoint |
+| 第17周 2025.12.30 | 陈子阳 丁则文 候世卓 | ServerlessLLM: Low-Latency Serverless Inference for Large Language Models |
+| | 江伟怡 胡梦婷 蒋雨含 | CASSINI: Network-Aware Job Scheduling in Machine Learning Clusters |
+| | 王若言 刘丰毅 | Fast Algorithms for Loop-Free Network Updates using Linear Programming and Local Search |
 
 
 

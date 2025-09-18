@@ -4,3 +4,7 @@ repo_name: ACN-2025/ACN-2025.github.io
 repo_url: https://github.com/ACN-2025/ACN-2025.github.io
 theme:
   name: material
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
