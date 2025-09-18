@@ -76,7 +76,7 @@ hide:
 | 32 | Rethinking Machine Learning Collective Communication as a Multi-Commodity Flow Problem | SIGCOMM | 2024 |
 | 33 | MCCS: A Service-based Approach to Collective Communication for Multi-Tenant Cloud | SIGCOMM | 2024 |
 | 34 | Whale: Efficient Giant Model Training over Heterogeneous GPUs | ATC | 2023 |
-| 35 | Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve | OSDI | 2024 |
+| 35 (已选) | Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve | OSDI | 2024 |
 | 36 (已选) | ServerlessLLM: Low-Latency Serverless Inference for Large Language Models | OSDI | 2024 |
 | 37 | Parcae: Proactive, Liveput-Optimized DNN Training on Preemptible Instances | NSDI | 2024 |
 | 38 (已选) | CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving | SIGCOMM | 2024 |
@@ -102,7 +102,7 @@ hide:
 | 第14周 2025.12.09 | 马嘉慧 靳琪 | Differential Network Analysis (DNA) |
 | 第15周 2025.12.16 | 范冰 陈智慧 | CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving |
 | | 张宇洋 宋子阳 沈楠 | How to Disturb Network Reconnaissance: A Moving Target Defense Approach Based on Deep Reinforcement Learning |
-| | 陈世初 张恒基 | 题目未定 |
+| | 陈世初 张恒基 | Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve |
 | 第16周 2025.12.23 | 杜柏言 吴风帆 | MegaScale: Scaling Large Language Model Training to More Than 10,000 GPUs |
 | | 黄佳依 赵涵 苗明鑫 | ReCycle: Resilient Training of Large DNNs using Pipeline Adaptation |
 | | 李岱霖 刘翔宇 鉏博洋 | Gemini: Fast Failure Recovery in Distributed Training with In-Memory Checkpoint |
