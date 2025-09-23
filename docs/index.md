@@ -94,7 +94,7 @@ hide:
 | 第6周 2025.10.14 | 李宇哲 刘睿博 周瓯翔 | AutoCCL: Automated Collective Communication Tuning for Accelerating Distributed and Parallel DNN Training |
 | 第7周 2025.10.21 | 周晖林 刘国柱 杨敏 | Efficient Memory Management for Large Language Model Serving with PagedAttention |
 | 第8周 2025.10.28 | 胡潇逸 赵英豪 朱炜荣 | Swing: Short-cutting Rings for Higher Bandwidth Allreduce |
-| 第9周 2025.11.4 | 陈润佳 刘盈睿 | Cost-Efficient Large Language Model Serving for Multi-turn Conversations with CachedAttention |
+| 第9周 2025.11.4 | 陈润佳 刘盈睿 刘珈辰 | Cost-Efficient Large Language Model Serving for Multi-turn Conversations with CachedAttention |
 | 第10周 2025.11.11 | 隋翊 张艾媛 边锋 | Mooncake:Trading More Storage for Less Computation -A KVCache-centric Architecture for Serving LLMChatbot |
 | 第11周 2025.11.18 | 梅陶然 史弘佐 黄万超 | Janus: A Unified Distributed Training Framework for Sparse Mixture-of-Experts Models |
 | 第12周 2025.11.25 | 刘亚国 张桦坚 王道宇 | Autellix: An Efficient Serving Engine for LLM Agents as General Programs |
