@@ -23,7 +23,7 @@ hide:
 |----- |------------------|----------------------------------------------------------------------|-------------------------|
 | 1      | fat tree         | [A Scalable, Commodity Data Center Network Architecture](papers/FatTree.pdf) | [FatTree](slides/FatTree-slides.pdf) |
 | 2      | VL2              | [VL2: A scalable and flexible data center network](papers/VL2.pdf)        | [VL2](slides/VL2-slides.pdf) |
-| 3      | openflow/SDN     | OpenFlow Enabling Innovation in Campus Networks 【SIGCOMM08】         | - |
+| 3      | OpenFlow/SDN     | [OpenFlow Enabling Innovation in Campus Networks](papers/OpenFlow.pdf)         | [OpenFlow](slides/OpenFlow-slides.pdf) |
 | 4      | B4              | B4- Experience with a Globally-Deployed Software Defined WAN【SIGCOMM13】| - |
 | 5      | 调度            | Hedera: Dynamic Flow Scheduling for Data Center Networks【NSDI10】     | - |
 | 6      | 更新            | Dynamic Scheduling of Network Updates【SIGCOMM14】                     | - |
