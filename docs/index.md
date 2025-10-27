@@ -103,7 +103,7 @@ hide:
 | 第15周 2025.12.16 | 范冰 陈智慧 | CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving |
 | | 张宇洋 宋子阳 沈楠 | How to Disturb Network Reconnaissance: A Moving Target Defense Approach Based on Deep Reinforcement Learning |
 | | 陈世初 张恒基 | Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve |
-| 第16周 2025.12.23 | 杜柏言 吴风帆 | MegaScale: Scaling Large Language Model Training to More Than 10,000 GPUs |
+| 第16周 2025.12.23 | 杜柏言 吴风帆 林文浩 | MegaScale: Scaling Large Language Model Training to More Than 10,000 GPUs |
 | | 黄佳依 赵涵 苗明鑫 | ReCycle: Resilient Training of Large DNNs using Pipeline Adaptation |
 | | 李岱霖 刘翔宇 鉏博洋 | Gemini: Fast Failure Recovery in Distributed Training with In-Memory Checkpoint |
 | 第17周 2025.12.30 | 陈子阳 丁则文 候世卓 | ServerlessLLM: Low-Latency Serverless Inference for Large Language Models |
