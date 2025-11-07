@@ -27,7 +27,7 @@ hide:
 | 4      | B4              | [B4: Experience with a Globally-Deployed Software Defined WAN](papers/B4.pdf) | [B4](slides/B4-slides.pdf) |
 | 5      | 调度            | [Hedera: Dynamic Flow Scheduling for Data Center Networks](papers/Hedera.pdf) | [Hedera](slides/Hedera-slides.pdf) |
 | 6      | 更新            | [Dynamic Scheduling of Network Updates](papers/Dionysus.pdf)                   | [Dionysus](slides/Dionysus-slides.pdf) |
-| 7      | SFC             | SIMPLE-fying Middlebox Policy Enforcement Using SDN【SIGCOMM13】       | - |
+| 7      | SFC             | [SIMPLE-fying Middlebox Policy Enforcement Using SDN](papers/SIMPLE.pdf) | [SIMPLE](slides/SIMPLE-slides.pdf) |
 | 8      | NFV             | ClickOS and the Art of Network Function Virtualization【NSDI14】       | - |
 | 9      | P4              | P4 Programming Protocol independent 【SIGCOMM14】                      | - |
 | 10     | OVS             | The Design and Implementation of Open vSwitch 【NSDI15】               | - |
