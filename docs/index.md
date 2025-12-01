@@ -28,10 +28,10 @@ hide:
 | 5      | 调度            | [Hedera: Dynamic Flow Scheduling for Data Center Networks](papers/Hedera.pdf) | [Hedera](slides/Hedera-slides.pdf) |
 | 6      | 更新            | [Dynamic Scheduling of Network Updates](papers/Dionysus.pdf)                   | [Dionysus](slides/Dionysus-slides.pdf) |
 | 7      | SFC             | [SIMPLE-fying Middlebox Policy Enforcement Using SDN](papers/SIMPLE.pdf) | [SIMPLE](slides/SIMPLE-slides.pdf) |
-| 8      | NFV             | ClickOS and the Art of Network Function Virtualization【NSDI14】       | - |
-| 9      | P4              | P4 Programming Protocol independent 【SIGCOMM14】                      | - |
-| 10     | OVS             | The Design and Implementation of Open vSwitch 【NSDI15】               | - |
-| 11     | MPTCP           | Design, implementation and evaluation of congestion control for multipath TCP 【NSDI11】| - |
+| 8      | NFV             | [ClickOS and the Art of Network Function Virtualization](papers/ClickOS.pdf) | [ClickOS](slides/ClickOS-slides.pdf) |
+| 9      | P4              | [P4: Programming Protocol-Independent Packet Processors](papers/P4.pdf) | [P4](slides/P4-slides.pdf) |
+| 10     | OVS             | [The Design and Implementation of Open vSwitch](papers/OVS.pdf) | [OVS](slides/OVS-slides.pdf) |
+| 11     | MPTCP           | [Design, implementation and evaluation of congestion control for multipath TCP](papers/MPTCP.pdf) | [MPTCP](slides/MPTCP-slides.pdf) |
 | 12     | DCQCN           | Congestion Control for Large-Scale RDMA Deployments【SIGCOMM15】       | - |
 | 13     | QUIC            | The QUIC Transport Protocol_ Design and Internet-Scale Deployment 【SIGCOMM17】 | - |
 | 14     | 仿真器 | NOX- Towards an Operating System for Networks <br> A network in a laptop: rapid prototyping for software-defined networks | - |
@@ -100,9 +100,9 @@ hide:
 | 第12周 2025.11.25 | 刘亚国 张桦坚 王道宇 | Autellix: An Efficient Serving Engine for LLM Agents as General Programs |
 | 第13周 2025.12.02 | 吴晓春 汪延 时锐 | RDMA over Ethernet for Distributed Al Training at Meta Scale |
 | 第14周 2025.12.09 | 马嘉慧 靳琪 | Differential Network Analysis (DNA) |
-| 第15周 2025.12.16 | 范冰 陈智慧 | CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving |
+| 第15周 2025.12.16 | 范冰 胡恒瑞 陈智慧 | CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving |
 | | 张宇洋 宋子阳 沈楠 | How to Disturb Network Reconnaissance: A Moving Target Defense Approach Based on Deep Reinforcement Learning |
-| | 陈世初 张恒基 | Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve |
+| | 陈世初 张恒基 方驰正 | Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve |
 | 第16周 2025.12.23 | 杜柏言 吴风帆 林文浩 | MegaScale: Scaling Large Language Model Training to More Than 10,000 GPUs |
 | | 黄佳依 赵涵 苗明鑫 | ReCycle: Resilient Training of Large DNNs using Pipeline Adaptation |
 | | 李岱霖 刘翔宇 鉏博洋 | Gemini: Fast Failure Recovery in Distributed Training with In-Memory Checkpoint |
