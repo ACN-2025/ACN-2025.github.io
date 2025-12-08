@@ -70,22 +70,17 @@ hide:
 | 26 | White-Boxing RDMA with Packet-Granular Software Control | NSDI | 2025 |
 | 27 | Unlocking ECMP Programmability for Precise Traffic Control | NSDI | 2025 |
 | 28 (已选) | Autellix: An Efficient Serving Engine for LLM Agents as General Programs | NSDI | 2026 |
-| 29 | Revisiting Congestion Control for Lossless Ethernet | NSDI | 2024 |
-| 30 | Load Balancing With Multi-Level Signals for Lossless Datacenter Networks | ToN | 2024 |
-| 31 (已选) | Swing: Short-cutting Rings for Higher Bandwidth Allreduce | NSDI | 2024 |
-| 32 | Rethinking Machine Learning Collective Communication as a Multi-Commodity Flow Problem | SIGCOMM | 2024 |
-| 33 | MCCS: A Service-based Approach to Collective Communication for Multi-Tenant Cloud | SIGCOMM | 2024 |
-| 34 | Whale: Efficient Giant Model Training over Heterogeneous GPUs | ATC | 2023 |
-| 35 (已选) | Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve | OSDI | 2024 |
-| 36 (已选) | ServerlessLLM: Low-Latency Serverless Inference for Large Language Models | OSDI | 2024 |
-| 37 | Parcae: Proactive, Liveput-Optimized DNN Training on Preemptible Instances | NSDI | 2024 |
-| 38 (已选) | CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving | SIGCOMM | 2024 |
+| 29 | Load Balancing With Multi-Level Signals for Lossless Datacenter Networks | ToN | 2024 |
+| 30 (已选) | Swing: Short-cutting Rings for Higher Bandwidth Allreduce | NSDI | 2024 |
+| 31 | Rethinking Machine Learning Collective Communication as a Multi-Commodity Flow Problem | SIGCOMM | 2024 |
+| 32 | MCCS: A Service-based Approach to Collective Communication for Multi-Tenant Cloud | SIGCOMM | 2024 |
+| 33 | Whale: Efficient Giant Model Training over Heterogeneous GPUs | ATC | 2023 |
+| 34 (已选) | Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve | OSDI | 2024 |
+| 35 (已选) | ServerlessLLM: Low-Latency Serverless Inference for Large Language Models | OSDI | 2024 |
+| 36 | Parcae: Proactive, Liveput-Optimized DNN Training on Preemptible Instances | NSDI | 2024 |
+| 37 (已选) | CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving | SIGCOMM | 2024 |
 
 ## 学生 Presentation 安排
-
-!!! note "报名的注意事项"
-
-    目前线下汇报已经报满, 后面报名的同学将安排线上, 具体安排以后通知.
 
 | 时间 | 汇报人 | 论文 |
 | --- | --- | --- |
